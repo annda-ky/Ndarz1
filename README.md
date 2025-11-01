@@ -46,6 +46,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ndaazzki&layout=compact&theme=radical" alt="Statistik WakaTime" />
+</p>
+
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfazip2tnr4366uy2ctzv6b2eu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c48787&interchange=false&profanity=false&bar_color_cover=false&bar_color=53b14f">
   </a>
