@@ -36,3 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&theme=radical" alt="Bahasa Teratas Ndarz1" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ndarz1&theme=radical" alt="GitHub Streak Ndarz1" />
 </p>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics Ndarz1" />
+</p>
