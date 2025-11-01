@@ -19,8 +19,11 @@ UI/UX Engineering - Menciptakan pengalaman yang intuitif dan berpusat pada pengg
 
 💡 Senang berdiskusi tentang tren teknologi terbaru
 
-📫 Hubungi Saya
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> rndazzki@gmail.com
+<p align="center"> 
+    <a href="rndaazzki@gmail.com">   
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+    </a>
+</p>
 
 ---
 
