@@ -15,9 +15,9 @@ Saya percaya bahwa perangkat lunak yang hebat tidak hanya dibangun di atas kode 
 - 📫 Jangan ragu untuk menghubungi saya melalui <strong>rndazzki@gmail.com</strong>.
 
 <p align="center">
-  <a href="https://www.instagram.com/anandazzn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram anandazzn">
-</a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,figma,nodejs,express,prisma,mysql,postgresql,git,docker,vercel,postman,vscode" />
+    </a>
 </p>
 ---
 
@@ -47,6 +47,9 @@ Saya percaya bahwa perangkat lunak yang hebat tidak hanya dibangun di atas kode 
     <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="Statistik WakaTime" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-leetcode.vercel.app/api?username=ndarz1&theme=radical&show_ranking=true" alt="Statistik LeetCode ndarz1" />
+</p>
 ---
 
 ### 🎧 Spotify Now Playing
