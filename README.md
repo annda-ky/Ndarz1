@@ -25,7 +25,7 @@ Saya percaya bahwa perangkat lunak yang hebat tidak hanya dibangun di atas kode 
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,docker,git,postgresql" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,nodejs,mysql,docker,git,postgresql" />
     </a>
 </p>
 
