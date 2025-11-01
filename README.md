@@ -14,6 +14,11 @@ Saya percaya bahwa perangkat lunak yang hebat tidak hanya dibangun di atas kode 
 - 🚀 Saya aktif mencari peluang untuk berkolaborasi dalam proyek yang menantang, berkontribusi pada solusi _open-source_, atau bertukar pikiran tentang tren teknologi terbaru.
 - 📫 Jangan ragu untuk menghubungi saya melalui <strong>rndazzki@gmail.com</strong>.
 
+<p align="center">
+  <a href="https://www.instagram.com/anandazzn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram anandazzn">
+</a>
+</p>
 ---
 
 ### 💻 Bahasa dan Teknologi
