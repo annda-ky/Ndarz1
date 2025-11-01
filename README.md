@@ -25,14 +25,16 @@
 
 ---
 
+---
+
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_ANDA]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Statistik GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Statistik GitHub Ndarz1" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ANDA]&layout=compact&theme=radical" alt="Bahasa Teratas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&layout=compact&theme=radical" alt="Bahasa Teratas Ndarz1" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-pinned-repos.vercel.app/api?username=Ndarz1" alt="Proyek yang Di-pin">
+    <img src="https://github-readme-pinned-repos.vercel.app/api?username=Ndarz1" alt="Proyek Ndarz1 yang Di-pin">
 </p>
