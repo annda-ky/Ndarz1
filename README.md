@@ -45,8 +45,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ndarz1&theme=radical&column=7" alt="GitHub Trophies Ndarz1" />
 </p>
 
-<a align="center"
- href="https://wakatime.com/@7ab66855-882f-49db-a8cb-ea185edddf9b"><img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="Total time coded since Nov 1 2025" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ndaazzki&layout=compact&theme=radical" alt="Statistik WakaTime" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
