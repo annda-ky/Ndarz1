@@ -6,17 +6,13 @@
 
 ### 🙋‍♂️ Tentang Saya
 
-<p align="left">
-    Selamat datang! Saya Ananda, mahasiswa Informatika semester 5 di <strong>Universitas Ahmad Dahlan (UAD)</strong>.
-    <br><br>
-    Saya memiliki antusiasme besar yang menjembatani dua dunia: <strong>Full-Stack Development</strong> dan <strong>UI/UX Engineering</strong>. Saya percaya solusi teknologi terbaik tidak hanya harus fungsional dari <i>back-end</i> hingga <i>front-end</i>, tetapi juga harus intuitif dan mudah diakses oleh pengguna.
-    <br><br>
-    🌱 Saat ini saya sedang fokus mendalami <strong>React JS</strong> untuk memperkuat kemampuan saya dalam menciptakan pengalaman pengguna yang dinamis dan interaktif.
-    <br>
-    👯 Saya selalu terbuka untuk berkolaborasi dalam proyek yang menantang atau sekadar berdiskusi tentang teknologi baru.
-    <br>
-    📫 Mari terhubung: <strong>rndazzki@gmail.com</strong>
-</p>
+Saya Ananda, seorang mahasiswa Teknik Informatika di <strong>Universitas Ahmad Dahlan (UAD)</strong> dengan fokus kuat pada persimpangan antara <strong>Full-Stack Development</strong> dan <strong>UI/UX Engineering</strong>.
+
+Saya percaya bahwa perangkat lunak yang hebat tidak hanya dibangun di atas kode yang bersih dan efisien (Full-Stack), tetapi juga harus dirancang dengan empati—menciptakan pengalaman yang intuitif dan berpusat pada pengguna (_user-centric_).
+
+- 🌱 Saat ini, saya mendedikasikan waktu untuk menguasai <strong>React JS</strong> sebagai alat utama saya dalam membangun antarmuka pengguna yang modern dan responsif.
+- 🚀 Saya aktif mencari peluang untuk berkolaborasi dalam proyek yang menantang, berkontribusi pada solusi _open-source_, atau bertukar pikiran tentang tren teknologi terbaru.
+- 📫 Jangan ragu untuk menghubungi saya melalui <strong>rndazzki@gmail.com</strong>.
 
 ---
 
