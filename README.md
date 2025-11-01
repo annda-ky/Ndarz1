@@ -1,5 +1,5 @@
 <h1 align="center">Halo 👋, Saya [Nama Anda]</h1>
-<h3 align="center">Seorang [Jabatan Anda, misal: Software Engineer / Mahasiswa Informatika] dari [Lokasi Anda].</h3>
+<h3 align="center">Seorang Mahasiswa Informatika Semester 5 di Universitas Ahmad Dahlan.</h3>
 
 <p align="center">
   <img src="[URL_GAMBAR_BANNER_ANDA]" alt="Banner Profil">
@@ -10,7 +10,7 @@
 ### 🙋‍♂️ Tentang Saya
 
 <p align="left">
-    Saya adalah seorang pengembang yang bersemangat dalam [Bidang Minat Anda, misal: pengembangan web, data science, atau mobile development]. 
+    Saya adalah seorang mahasiswa Teknik Informatika di <strong>Universitas Ahmad Dahlan (UAD)</strong> yang saat ini menempuh semester 5. Saya bersemangat dalam [Bidang Minat Anda, misal: pengembangan web, data science, atau mobile development].
     <br><br>
     🔭 Saya sedang mengerjakan **[Nama Proyek Anda Saat Ini]**.
     <br>
@@ -18,7 +18,7 @@
     <br>
     👯 Saya terbuka untuk berkolaborasi dalam **[Jenis Proyek yang Diinginkan]**.
     <br>
-    💬 Tanya saya tentang **[Topik yang Anda Kuasai, misal: Python, JavaScript, atau Jaringan]**.
+    💬 Tanya saya tentang **[Topik yang Anda Kuasai, misal: Python, Java, atau Jaringan]**.
     <br>
     📫 Cara menghubungi saya: **[Email Anda]**
     <br>
