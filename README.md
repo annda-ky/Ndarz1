@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=30A0F0&center=true&width=430&lines=Halo+👋,+Saya+Ananda+Rizki+Nurhidayat;Seorang+Mahasiswa+Informatika+UAD;Selamat+datang+di+profil+saya!" alt="Animasi Teks Sapaan" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=30A0F0&center=true&width=470&lines=Halo+👋,+Saya+Ananda+Rizki+Nurhidayat;Seorang+Mahasiswa+Informatika+UAD;Selamat+datang+di+profil+saya!" alt="Animasi Teks Sapaan" />
 </h1>
 
 ---
@@ -7,7 +7,7 @@
 ### 🙋‍♂️ Tentang Saya
 
 <p align="left">
-    Saya adalah seorang mahasiswa Teknik Informatika di <strong>Universitas Ahmad Dahlan (UAD)</strong> yang saat ini menempuh semester 5. Saya bersemangat dalam [Bidang Minat Anda, misal: pengembangan web, data science, atau mobile development].
+    Saya adalah seorang mahasiswa Teknik Informatika di <strong>Universitas Ahmad Dahlan (UAD)</strong> yang saat ini menempuh semester 5. Saya bersemangat dalam bidang WEB Development
     <br>
     🌱 Saya sedang belajar React JS.
     <br>
