@@ -1,5 +1,6 @@
-<h1 align="center">Halo 👋, Saya Ananda Rizki Nurhidayat</h1>
-<h3 align="center">Seorang Mahasiswa Informatika Semester 5 di Universitas Ahmad Dahlan.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=30A0F0&center=true&width=430&lines=Halo+👋,+Saya+Ananda+Rizki+Nurhidayat;Seorang+Mahasiswa+Informatika+UAD;Selamat+datang+di+profil+saya!" alt="Animasi Teks Sapaan" />
+</h1>
 
 ---
 
@@ -31,6 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Statistik GitHub Ndarz1" />
     <br>
 </p>
-<p>  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&theme=radical" alt="Bahasa Teratas Ndarz1" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&theme=radical" alt="Bahasa Teratas Ndarz1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ndarz1&theme=radical" alt="GitHub Streak Ndarz1" />
 </p>
