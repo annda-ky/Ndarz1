@@ -73,3 +73,11 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfazip2tnr4366uy2ctzv6b2eu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c48787&interchange=false&profanity=false&bar_color_cover=false&bar_color=53b14f">
   </a>
 </p>
+
+---
+### Pacman Contributors
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
