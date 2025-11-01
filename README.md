@@ -4,21 +4,33 @@
 
 ---
 
-👋 Tentang Saya
-Halo! Saya Ananda - Mahasiswa Teknik Informatika di Universitas Ahmad Dahlan (UAD) yang passionate tentang pengembangan perangkat lunak dan desain pengalaman pengguna.
+<h1 align="center">👋 Halo, Saya Ananda!</h1>
 
-💫 Fokus & Passion
-Full-Stack Development - Membangun aplikasi dengan kode yang bersih dan efisien
+<p align="center">
+🎓 <strong>Mahasiswa Teknik Informatika</strong> di <strong>Universitas Ahmad Dahlan (UAD)</strong><br>
+💻 Passionate dalam <strong>pengembangan perangkat lunak</strong> dan <strong>desain pengalaman pengguna (UI/UX)</strong>
+</p>
 
-UI/UX Engineering - Menciptakan pengalaman yang intuitif dan berpusat pada pengguna
+<hr>
 
-🚀 Sedang Ditekuni
-🌱 Mendalami React JS untuk pengembangan antarmuka modern dan responsif
+<h2>💫 Fokus & Passion</h2>
 
-🔍 Terbuka untuk kolaborasi proyek menarik dan kontribusi open-source
+<ul>
+  <li>🧠 <strong>Full-Stack Development</strong> — Membangun aplikasi dengan kode yang <strong>bersih</strong>, <strong>efisien</strong>, dan <strong>terstruktur</strong></li>
+  <li>🎨 <strong>UI/UX Engineering</strong> — Menciptakan pengalaman yang <strong>intuitif</strong>, <strong>modern</strong>, dan <strong>berpusat pada pengguna</strong></li>
+</ul>
 
-💡 Senang berdiskusi tentang tren teknologi terbaru
+<hr>
 
+<h2>🚀 Sedang Ditekuni</h2>
+
+<ul>
+  <li>🌱 <strong>Mendalami React JS</strong> untuk pengembangan antarmuka yang <strong>modern</strong>, <strong>dinamis</strong>, dan <strong>responsif</strong></li>
+  <li>🔧 Mengeksplor <strong>clean architecture</strong>, <strong>API integration</strong>, serta <strong>best practices</strong> dalam pengembangan web</li>
+</ul>
+
+<hr>
+---
 <p align="center"> 
     <a href="rndaazzki@gmail.com">   
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
