@@ -32,7 +32,7 @@ Saya percaya bahwa perangkat lunak yang hebat tidak hanya dibangun di atas kode 
     <img src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Statistik GitHub Ndarz1" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&theme=radical" alt="Bahasa Teratas Ndarz1" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&theme=radical&langs_count=10" alt="Bahasa Teratas Ndarz1" height="160" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ndarz1&theme=radical" alt="GitHub Streak Ndarz1" height="160" />
 </p>
 <p align="center">
