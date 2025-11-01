@@ -41,6 +41,6 @@ jobs:
           plugin_snake: yes
           
           # (Opsional) Plugin lain yang bisa Anda tambahkan:
-          # plugin_lines: yes       # Menghitung baris kode
-          # plugin_habits: yes      # Kebiasaan coding (jam berapa paling aktif)
-          # plugin_languages: yes   # Kartu bahasa (jika Anda tidak suka yang sebelumnya)
+          plugin_lines: yes       # Menghitung baris kode
+          plugin_habits: yes      # Kebiasaan coding (jam berapa paling aktif)
+          plugin_languages: yes   # Kartu bahasa (jika Anda tidak suka yang sebelumnya)
