@@ -1,0 +1,46 @@
+
+# File: .github/workflows/metrics.yml
+
+name: GitHub Metrics
+on:
+  # Jalankan setiap 24 jam (tengah malam)
+  schedule:
+    - cron: "0 0 * * *"
+  # Juga bisa dijalankan manual dari tab Actions
+  workflow_dispatch:
+  # (Opsional) Jalankan saat ada commit ke branch main/master
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Username Anda
+          user: Ndarz1
+          
+          # Token GitHub (ini aman, dibuat otomatis oleh GitHub)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Nama file output
+          output_path: github-metrics.svg
+          
+          # Zona waktu (untuk statistik aktivitas)
+          config_timezone: Asia/Jakarta
+
+          # Tampilan dasar: header, aktivitas, info komunitas, repo
+          base: header, activity, community, repositories
+          
+          # PLUGIN TAMBAHAN
+          # -----------------
+          # Aktifkan animasi ular (yang memakan kotak kontribusi)
+          plugin_snake: yes
+          
+          # (Opsional) Plugin lain yang bisa Anda tambahkan:
+          plugin_lines: yes       # Menghitung baris kode
+          plugin_habits: yes      # Kebiasaan coding (jam berapa paling aktif)
+          plugin_languages: yes   # Kartu bahasa (jika Anda tidak suka yang sebelumnya)
