@@ -44,3 +44,9 @@
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics Ndarz1" />
 </p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfazip2tnr4366uy2ctzv6b2eu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfazip2tnr4366uy2ctzv6b2eu&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
