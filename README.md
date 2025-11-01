@@ -1,45 +1,17 @@
-<h1 align="center">Halo 👋, Saya [Nama Anda]</h1>
+<h1 align="center">Halo 👋, Saya Ananda Rizki Nurhidayat</h1>
 <h3 align="center">Seorang Mahasiswa Informatika Semester 5 di Universitas Ahmad Dahlan.</h3>
-
-<p align="center">
-  <img src="[URL_GAMBAR_BANNER_ANDA]" alt="Banner Profil">
-</p>
-
----
 
 ### 🙋‍♂️ Tentang Saya
 
 <p align="left">
     Saya adalah seorang mahasiswa Teknik Informatika di <strong>Universitas Ahmad Dahlan (UAD)</strong> yang saat ini menempuh semester 5. Saya bersemangat dalam [Bidang Minat Anda, misal: pengembangan web, data science, atau mobile development].
-    <br><br>
-    🔭 Saya sedang mengerjakan **[Nama Proyek Anda Saat Ini]**.
     <br>
-    🌱 Saya sedang belajar **[Teknologi yang Sedang Dipelajari]**.
+    🌱 Saya sedang belajar React JS.
     <br>
-    👯 Saya terbuka untuk berkolaborasi dalam **[Jenis Proyek yang Diinginkan]**.
-    <br>
-    💬 Tanya saya tentang **[Topik yang Anda Kuasai, misal: Python, Java, atau Jaringan]**.
-    <br>
-    📫 Cara menghubungi saya: **[Email Anda]**
-    <br>
-    ⚡ Fakta menarik: **[Fakta Unik Tentang Anda]**
+    📫 Cara menghubungi saya: rndazzki@gmail.com
 </p>
 
 ---
-
-### 🤝 Mari Terhubung
-
-<p align="left">
-    <a href="https://linkedin.com/in/[USERNAME_LINKEDIN_ANDA]" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://instagram.com/[USERNAME_INSTAGRAM_ANDA]" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://twitter.com/[USERNAME_TWITTER_ANDA]" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-</p>
 
 ---
 
@@ -47,7 +19,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,docker,git" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,docker,git,postgresql" />
     </a>
 </p>
 
@@ -62,5 +34,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-pinned-repos.vercel.app/api?username=[USERNAME_ANDA]" alt="Proyek yang Di-pin">
+    <img src="https://github-readme-pinned-repos.vercel.app/api?username=Ndarz1" alt="Proyek yang Di-pin">
 </p>
