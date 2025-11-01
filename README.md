@@ -30,10 +30,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Statistik GitHub Ndarz1" />
     <br>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&theme=radical" alt="Bahasa Teratas Ndarz1" />
 </p>
-
-<p align="center">
-    <img src="https://github-readme-pinned-repos.vercel.app/api?username=Ndarz1" alt="Proyek Ndarz1 yang Di-pin">
+<p>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&theme=radical" alt="Bahasa Teratas Ndarz1" />
 </p>
