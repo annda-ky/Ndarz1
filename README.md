@@ -97,10 +97,11 @@ Memiliki ketertarikan kuat pada <strong>UI/UX engineering</strong>, code quality
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:rndaazzki@gmail.com?subject=Contact%20from%20GitHub%20Profile">
+  <a href="mailto:rndaazzki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
