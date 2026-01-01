@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Informatics+Engineering+Student+%7C+Web+Developer;Frontend+Engineering+%7C+React+%7C+UI%2FUX"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&width=720&lines=Ananda+Rizki+Nurhidayat;Informatics+Engineering+Student+%7C+Web+Developer;Frontend+Engineering+%7C+React+%7C+UI%2FUX"
     alt="Typing SVG"
   />
 </h1>
@@ -19,9 +19,8 @@ Informatics Engineering Student — Universitas Ahmad Dahlan (UAD)
 </p>
 
 <p align="center">
-I am a web developer with a strong interest in <strong>frontend engineering</strong> and <strong>UI/UX implementation</strong>.  
-I enjoy translating designs and requirements into <strong>maintainable, performant, and production-ready interfaces</strong>,  
-while applying clean architecture principles and best practices.
+I am a web developer with a strong focus on <strong>frontend engineering</strong> and <strong>UI/UX implementation</strong>.  
+I enjoy building <strong>maintainable, performant, and well-structured web applications</strong> by applying clean architecture principles and modern web practices.
 </p>
 
 <p align="center">
@@ -33,13 +32,13 @@ Currently preparing for <strong>frontend / web developer internship opportunitie
 ## 🎯 Core Expertise
 
 - **Frontend Engineering**  
-  Building modular, reusable, and performant user interfaces using React
+  Building modular, reusable, and responsive user interfaces using React
 
 - **Backend Integration**  
   Consuming RESTful APIs and managing client–server data flow
 
 - **UI/UX Engineering**  
-  Translating Figma designs into consistent, intuitive, and accessible interfaces
+  Translating Figma designs into intuitive, consistent, and accessible interfaces
 
 - **Code Quality & Architecture**  
   Clean code principles, separation of concerns, and scalable project structures
@@ -64,7 +63,7 @@ Currently preparing for <strong>frontend / web developer internship opportunitie
 
 ### Tools & Workflow
 - Figma  
-- Git & GitHub  
+- GitHub & GitLab  
 - WakaTime
 
 <p align="center">
@@ -83,37 +82,58 @@ Currently preparing for <strong>frontend / web developer internship opportunitie
 **Web-Based Academic Room Reservation System**
 
 A web-based room reservation system designed for academic environments.  
-This project demonstrates the implementation of a structured web system with separated frontend and backend services, focusing on usability, maintainability, and clean architecture.
+This project demonstrates a complete web system with **separated user panel, admin dashboard, and backend services**, focusing on usability, maintainability, and clean architecture.
 
 ---
 
-### 🧩 Project Architecture
+## 🧩 System Architecture
+
+- **User Panel (Frontend)**  
+  Interface for users to browse availability and make room reservations
 
 - **Admin Dashboard (Frontend)**  
-  Web-based admin panel for managing rooms, schedules, and reservations
+  Panel for administrators to manage rooms, schedules, and reservations
 
 - **Backend Service (REST API)**  
-  Backend service handling business logic, authentication, and data management
+  Central service handling business logic, authentication, and data management
 
 ---
 
-### 🖥️ Admin Dashboard — Frontend
-🔗 **Repository:** https://github.com/Ndarz1/admin-dashboard.git
+## 👤 User Panel — Frontend
+🔗 **Repository (GitLab):**  
+https://gitlab.com/Ndarz1/ta-pwd-fe.git
 
 **Tech Stack**
 - React.js  
 - Tailwind CSS  
 
 **Key Features**
-- Admin dashboard for room and schedule management
-- Clean and reusable component structure
-- REST API integration for real-time data management
-- Focused on clarity and efficiency for administrative users
+- Room browsing and availability checking
+- Room reservation submission
+- User-focused UI with simple and intuitive flow
+- Integration with backend REST API
 
 ---
 
-### ⚙️ Backend Service — REST API
-🔗 **Repository:** https://github.com/Ndarz1/ta-pwd-be.git
+## 🖥️ Admin Dashboard — Frontend
+🔗 **Repository (GitHub):**  
+https://github.com/Ndarz1/admin-dashboard.git
+
+**Tech Stack**
+- React.js  
+- Tailwind CSS  
+
+**Key Features**
+- Admin dashboard for room & schedule management
+- Reusable component structure
+- Real-time data handling via API integration
+- Designed for clarity and administrative efficiency
+
+---
+
+## ⚙️ Backend Service — REST API
+🔗 **Repository (GitHub):**  
+https://github.com/Ndarz1/ta-pwd-be.git
 
 **Tech Stack**
 - Node.js  
@@ -123,15 +143,16 @@ This project demonstrates the implementation of a structured web system with sep
 - RESTful API for room reservation workflows
 - Separation of routes, controllers, and services
 - Centralized business logic and data handling
-- Designed to be consumed by multiple frontend clients
+- Designed to support multiple frontend clients
 
 ---
 
-### 🎯 Key Takeaways
-- Implemented clear **separation of concerns** between frontend and backend  
-- Gained hands-on experience with **real-world academic use cases**  
-- Strengthened understanding of **frontend–backend integration**  
-- Built a maintainable and scalable web system architecture  
+## 🎯 Key Takeaways
+
+- Implemented clear **separation of concerns** across frontend and backend  
+- Built a system based on a **real-world academic use case**  
+- Strengthened understanding of **full frontend–backend integration**  
+- Designed architecture ready for future scalability and feature expansion  
 
 ---
 
