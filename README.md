@@ -69,18 +69,7 @@ Memiliki ketertarikan kuat pada <strong>UI/UX engineering</strong>, code quality
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&layout=compact&theme=radical&langs_count=8"
-    height="160"
-  />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Ndarz1&theme=radical"
     height="160"
