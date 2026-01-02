@@ -4,17 +4,8 @@
     alt="Typing SVG"
   />
 
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=359aeb&width=435&lines=Informatics+Student+at+Universitas+Ahmad+Dahlan" alt="Typing SVG" />
-    </a>
-  </p>
-
   <a href="mailto:rndaazzki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="LINK_LINKEDIN_ANDA_DISINI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
