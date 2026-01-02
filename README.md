@@ -3,7 +3,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Next.js+%7C+UI%2FUX+Design"
     alt="Typing SVG"
   />
-
+<br>
   <a href="mailto:rndaazzki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
