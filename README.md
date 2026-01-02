@@ -80,14 +80,6 @@ My approach to software engineering involves:
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ndarz1&theme=radical&hide_border=true" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="top langs" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=radical&hide_border=true" height="150" alt="github stats" />
-</div>
-<div align="center">
   <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="wakatime" />
 </div>
 
