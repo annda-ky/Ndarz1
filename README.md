@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer+Intern+Candidate;React+%7C+Modern+Web+Engineering+%7C+UI%2FUX"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Modern+Web+Engineering+%7C+UI%2FUX"
     alt="Typing SVG"
   />
 </h1>
