@@ -1,11 +1,20 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=1000&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Next.js+%7C+UI%2FUX+Design"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Next.js+%7C+UI%2FUX+Design"
     alt="Typing SVG"
   />
 
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=359aeb&width=435&lines=Informatics+Student+at+Universitas+Ahmad+Dahlan" alt="Typing SVG" />
+    </a>
+  </p>
+
   <a href="mailto:rndaazzki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="LINK_LINKEDIN_ANDA_DISINI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -69,6 +78,7 @@ My approach to software engineering involves:
 ---
 
 ## 📈 GitHub Statistics
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ndarz1&theme=radical&hide_border=true" height="150" alt="streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="top langs" />
@@ -77,6 +87,10 @@ My approach to software engineering involves:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=radical&hide_border=true" height="150" alt="github stats" />
 </div>
+<div align="center">
+  <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="wakatime" />
+</div>
+
 ---
 
 <div align="center">
