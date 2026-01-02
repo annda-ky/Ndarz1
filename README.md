@@ -7,6 +7,12 @@
   <a href="mailto:rndaazzki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/log2nx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ndarz1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <hr />
@@ -64,14 +70,30 @@ My approach to software engineering involves:
 1.  **Component-Driven Development:** Architecting UIs using reusable, modular components to ensure consistency.
 2.  **Type Safety:** Leveraging TypeScript (where applicable) to reduce runtime errors.
 3.  **Responsive Design:** Utilizing Tailwind CSS to create fluid layouts that work on any device.
-4.  **Clean Architecture:** separating business logic from UI components for better testability.
+4.  **Clean Architecture:** Separating business logic from UI components for better testability.
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="wakatime" />
+  <img src="https://img.shields.io/github/followers/Ndarz1?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ndarz1?style=social" alt="Stars" />
+  <br/>
+  <br/>
+  <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="Wakatime" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Commits</b><br/>Consistent</td>
+      <td align="center"><b>Pull Requests</b><br/>Active</td>
+      <td align="center"><b>Code Review</b><br/>Participant</td>
+    </tr>
+  </table>
 </div>
 
 ---
