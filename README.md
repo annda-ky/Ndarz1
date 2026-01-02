@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Next.js+%7C+UI%2FUX+Design"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=1000&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Next.js+%7C+UI%2FUX+Design"
     alt="Typing SVG"
   />
 
