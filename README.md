@@ -67,7 +67,7 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ndarz1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ndarz1&theme=tokyonight&hide_border=true&stroke=2F81F7" alt="GitHub Streak" />
   <br/>
   <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="Wakatime" />
 </div>
