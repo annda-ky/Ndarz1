@@ -1,18 +1,15 @@
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Next.js+%7C+UI%2FUX+Design"
-    alt="Typing SVG"
-  />
-<br>
-  <a href="mailto:rndaazzki@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/log2nx/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ndarz1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Next.js+%7C+UI%2FUX+Design" alt="Typing SVG" />
+  
+  <p>
+    <a href="mailto:rndaazzki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.instagram.com/log2nx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://github.com/Ndarz1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+
+  ![Status](https://img.shields.io/badge/Status-Open_for_Internship-success?style=flat-square)
+  ![Role](https://img.shields.io/badge/Role-Frontend_Developer-blue?style=flat-square)
+  ![Education](https://img.shields.io/badge/Education-Informatics_Engineering-orange?style=flat-square)
 </div>
 
 <hr />
@@ -21,31 +18,30 @@
 
 I am a **Frontend-focused Web Developer** with a strong foundation in Informatics Engineering. My passion lies in engineering **clean, scalable, and user-centered web interfaces**. I bridge the gap between design and technology, ensuring that every pixel serves a purpose while maintaining high code quality.
 
-* **Focus:** React, Next.js, Modern UI Engineering.
-* **Philosophy:** Write code that is readable, maintainable, and efficient.
-
----
-
-## 🎯 Career Objective
-
-**Actively seeking a Frontend Developer Internship.**
-
-I am eager to contribute to a dynamic engineering team where I can:
-* Apply modern **React** patterns and **Frontend Best Practices**.
-* Collaborate in code reviews and agile workflows.
-* Transform complex requirements into intuitive user experiences.
-
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-  
-| **Core Frontend** | **Backend & Database** | **Tools & Design** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,css,html" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize,prisma" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" /> |
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+### 🔧 Design & Productivity
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -53,47 +49,21 @@ I am eager to contribute to a dynamic engineering team where I can:
 
 **A Comprehensive Academic Resource Management Platform.**
 
-This is a full-stack solution designed to streamline the process of booking academic rooms and labs. The system is architected with a separation of concerns, featuring distinct User and Admin interfaces powered by a robust REST API.
-
-| Component | Tech Stack | Description & Repository |
+| Component | Tech Stack | Links |
 | :--- | :--- | :--- |
-| **User Portal** | `React` `Tailwind` `Axios` | A responsive interface for students/staff to view availability and book rooms seamlessly. <br/>🔗 **[View Repository](https://gitlab.com/Ndarz1/ta-pwd-fe.git)** |
-| **Admin Dashboard** | `React` `Vite` `Charts` | Administrative control panel for approving requests, managing users, and analyzing occupancy data. <br/>🔗 **[View Repository](https://github.com/Ndarz1/admin-dashboard.git)** |
-| **Backend API** | `Node.js` `Express` `MySQL` | Secure RESTful API with JWT Authentication, Role-Based Access Control (RBAC), and Sequelize ORM. <br/>🔗 **[View Repository](https://github.com/Ndarz1/ta-pwd-be.git)** |
+| **User Portal** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) | [📂 View Repository](https://gitlab.com/Ndarz1/ta-pwd-fe.git) |
+| **Admin Dashboard** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square) | [📂 View Repository](https://github.com/Ndarz1/admin-dashboard.git) |
+| **Backend API** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) | [📂 View Repository](https://github.com/Ndarz1/ta-pwd-be.git) |
 
 ---
 
-## 🧩 Development Philosophy
-
-My approach to software engineering involves:
-
-1.  **Component-Driven Development:** Architecting UIs using reusable, modular components to ensure consistency.
-2.  **Type Safety:** Leveraging TypeScript (where applicable) to reduce runtime errors.
-3.  **Responsive Design:** Utilizing Tailwind CSS to create fluid layouts that work on any device.
-4.  **Clean Architecture:** Separating business logic from UI components for better testability.
-
----
-
-## 📈 Activity & Stats
+## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Ndarz1?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Ndarz1?style=social" alt="Stars" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ndarz1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/>
   <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="Wakatime" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Commits</b><br/>Consistent</td>
-      <td align="center"><b>Pull Requests</b><br/>Active</td>
-      <td align="center"><b>Code Review</b><br/>Participant</td>
-    </tr>
-  </table>
 </div>
 
 ---
